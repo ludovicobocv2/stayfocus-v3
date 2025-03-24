@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { Home, Utensils, BookOpen, Heart, Smile, DollarSign, Rocket, X } from 'lucide-react'
+import { Home, Utensils, BookOpen, Heart, Smile, DollarSign, Rocket, X, Brain } from 'lucide-react'
 
 type NavItem = {
   name: string
@@ -62,6 +62,13 @@ const navItems: NavItem[] = [
     icon: Rocket,
     color: 'text-hiperfocos-primary',
     activeColor: 'bg-hiperfocos-light',
+  },
+  {
+    name: 'Assistente IA',
+    href: '/assistente-ia',
+    icon: Brain,
+    color: 'text-purple-600',
+    activeColor: 'bg-purple-100',
   },
 ]
 

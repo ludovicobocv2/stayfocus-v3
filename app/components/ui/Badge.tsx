@@ -27,11 +27,12 @@ const badgeVariants = cva(
 export interface BadgeProps extends VariantProps<typeof badgeVariants> {
   children: ReactNode
   className?: string
+  onClick?: () => void
 }
 
-export function Badge({ className, variant, children }: BadgeProps) {
+export function Badge({ className, variant, children, onClick }: BadgeProps) {
   return (
-    <span className={cn(badgeVariants({ variant, className }))}>
+    <span className={cn(badgeVariants({ variant, className }))} onClick={onClick}>
       {children}
     </span>
   )
