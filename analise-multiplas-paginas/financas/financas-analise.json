@@ -1,0 +1,523 @@
+{
+  "nome": "financas",
+  "url": "https://stayfocus-main.vercel.app/financas",
+  "titulo": "StayFocus",
+  "estrutura": {
+    "title": "StayFocus",
+    "headings": [
+      {
+        "type": "H1",
+        "text": "Finanças"
+      },
+      {
+        "type": "H2",
+        "text": "Rastreador de Gastos"
+      },
+      {
+        "type": "H3",
+        "text": "Total de Gastos: R$ 0,00"
+      },
+      {
+        "type": "H2",
+        "text": "Envelopes Virtuais"
+      },
+      {
+        "type": "H2",
+        "text": "Calendário de Pagamentos"
+      },
+      {
+        "type": "H3",
+        "text": "Março 2025"
+      },
+      {
+        "type": "H2",
+        "text": "Adicionar Despesa"
+      },
+      {
+        "type": "H3",
+        "text": "Dicas para registrar despesas"
+      }
+    ],
+    "mainSections": [
+      {
+        "tag": "MAIN",
+        "childrenCount": 2
+      }
+    ],
+    "hasNavigation": false,
+    "hasSidebar": false,
+    "hasFooter": true,
+    "fontSizes": [
+      "16px",
+      "14px",
+      "24px",
+      "18px",
+      "12px"
+    ]
+  },
+  "cores": {
+    "textColors": [
+      "rgb(0, 0, 0)",
+      "rgb(17, 24, 39)",
+      "rgb(107, 114, 128)",
+      "rgb(93, 77, 178)",
+      "rgb(255, 255, 255)",
+      "rgb(75, 85, 99)",
+      "rgb(55, 65, 81)"
+    ],
+    "backgroundColors": [
+      "rgb(249, 250, 251)",
+      "rgb(255, 255, 255)",
+      "rgb(59, 130, 246)",
+      "rgba(255, 82, 82, 0.125)",
+      "rgb(255, 82, 82)",
+      "rgba(76, 175, 80, 0.125)",
+      "rgb(76, 175, 80)",
+      "rgba(33, 150, 243, 0.125)",
+      "rgb(33, 150, 243)",
+      "rgba(255, 193, 7, 0.125)",
+      "rgb(255, 193, 7)",
+      "rgba(156, 39, 176, 0.125)",
+      "rgb(156, 39, 176)",
+      "rgb(229, 231, 235)",
+      "rgb(243, 244, 246)"
+    ]
+  },
+  "botoes": 25,
+  "interativos": 32,
+  "screenshots": {
+    "mobile": "financas-mobile.png",
+    "tablet": "financas-tablet.png",
+    "desktop": "financas-desktop.png",
+    "full": "financas-full.png",
+    "header": "financas-header.png"
+  },
+  "detalhes": {
+    "cores": {
+      "textColors": [
+        "rgb(0, 0, 0)",
+        "rgb(17, 24, 39)",
+        "rgb(107, 114, 128)",
+        "rgb(93, 77, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(75, 85, 99)",
+        "rgb(55, 65, 81)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 250, 251)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 130, 246)",
+        "rgba(255, 82, 82, 0.125)",
+        "rgb(255, 82, 82)",
+        "rgba(76, 175, 80, 0.125)",
+        "rgb(76, 175, 80)",
+        "rgba(33, 150, 243, 0.125)",
+        "rgb(33, 150, 243)",
+        "rgba(255, 193, 7, 0.125)",
+        "rgb(255, 193, 7)",
+        "rgba(156, 39, 176, 0.125)",
+        "rgb(156, 39, 176)",
+        "rgb(229, 231, 235)",
+        "rgb(243, 244, 246)"
+      ]
+    },
+    "botoes": {
+      "buttons": [
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Abrir menu",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Gestão do Sono",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Notas de Autoconhecimento",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Mudar para tema escuro",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Roadmap e Ajuda",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "U",
+          "ariaLabel": "Informações Pessoais",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Editar envelope Emergências",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Remover envelope Emergências",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Registrar Gasto",
+          "ariaLabel": "Registrar gasto no envelope Emergências",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Editar envelope Férias",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Remover envelope Férias",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Registrar Gasto",
+          "ariaLabel": "Registrar gasto no envelope Férias",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Editar envelope Presentes",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Remover envelope Presentes",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Registrar Gasto",
+          "ariaLabel": "Registrar gasto no envelope Presentes",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Novo Envelope",
+          "ariaLabel": "Adicionar novo envelope",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Mês anterior",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Próximo mês",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Novo Pagamento",
+          "ariaLabel": "Adicionar novo pagamento",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "M\nMoradia",
+          "ariaLabel": "Selecionar categoria Moradia",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "A\nAlimentação",
+          "ariaLabel": "Selecionar categoria Alimentação",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "T\nTransporte",
+          "ariaLabel": "Selecionar categoria Transporte",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "S\nSaúde",
+          "ariaLabel": "Selecionar categoria Saúde",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "L\nLazer",
+          "ariaLabel": "Selecionar categoria Lazer",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Adicionar Despesa",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        }
+      ]
+    },
+    "interativos": {
+      "interactiveElements": [
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "INPUT",
+          "inputType": "text",
+          "placeholder": "Ex: Mercado",
+          "hasLabel": false
+        },
+        {
+          "type": "INPUT",
+          "inputType": "number",
+          "placeholder": "0,00",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": true
+        }
+      ]
+    },
+    "estrutura": {
+      "title": "StayFocus",
+      "headings": [
+        {
+          "type": "H1",
+          "text": "Finanças"
+        },
+        {
+          "type": "H2",
+          "text": "Rastreador de Gastos"
+        },
+        {
+          "type": "H3",
+          "text": "Total de Gastos: R$ 0,00"
+        },
+        {
+          "type": "H2",
+          "text": "Envelopes Virtuais"
+        },
+        {
+          "type": "H2",
+          "text": "Calendário de Pagamentos"
+        },
+        {
+          "type": "H3",
+          "text": "Março 2025"
+        },
+        {
+          "type": "H2",
+          "text": "Adicionar Despesa"
+        },
+        {
+          "type": "H3",
+          "text": "Dicas para registrar despesas"
+        }
+      ],
+      "mainSections": [
+        {
+          "tag": "MAIN",
+          "childrenCount": 2
+        }
+      ],
+      "hasNavigation": false,
+      "hasSidebar": false,
+      "hasFooter": true,
+      "fontSizes": [
+        "16px",
+        "14px",
+        "24px",
+        "18px",
+        "12px"
+      ]
+    }
+  }
+}

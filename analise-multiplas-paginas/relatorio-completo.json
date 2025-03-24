@@ -1,0 +1,1124 @@
+{
+  "dataAnalise": "2025-03-21T16:21:28.272Z",
+  "paginas": [
+    {
+      "nome": "home",
+      "url": "https://stayfocus-main.vercel.app/",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Início"
+          },
+          {
+            "type": "H2",
+            "text": "Painel do Dia"
+          },
+          {
+            "type": "H2",
+            "text": "Prioridades do Dia"
+          },
+          {
+            "type": "H2",
+            "text": "Lembretes de Pausas"
+          },
+          {
+            "type": "H3",
+            "text": "Tempo de foco"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "18px",
+          "12px",
+          "20px",
+          "36px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(55, 65, 81)",
+          "rgb(239, 68, 68)",
+          "rgb(31, 41, 55)",
+          "rgb(255, 140, 0)",
+          "rgb(75, 85, 99)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgba(236, 253, 245, 0.565)",
+          "rgba(255, 243, 224, 0.4)",
+          "rgba(254, 242, 242, 0.565)",
+          "rgba(245, 243, 255, 0.565)",
+          "rgb(243, 244, 246)",
+          "rgb(37, 99, 235)",
+          "rgb(22, 163, 74)",
+          "rgb(229, 231, 235)"
+        ]
+      },
+      "botoes": 35,
+      "interativos": 41,
+      "screenshots": {
+        "mobile": "home-mobile.png",
+        "tablet": "home-tablet.png",
+        "desktop": "home-desktop.png",
+        "full": "home-full.png",
+        "header": "home-header.png"
+      }
+    },
+    {
+      "nome": "alimentacao",
+      "url": "https://stayfocus-main.vercel.app/alimentacao",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Alimentação"
+          },
+          {
+            "type": "H2",
+            "text": "Planejador de Refeições"
+          },
+          {
+            "type": "H3",
+            "text": "Adicionar Nova Refeição"
+          },
+          {
+            "type": "H2",
+            "text": "Registro de Refeições"
+          },
+          {
+            "type": "H2",
+            "text": "Hidratação"
+          },
+          {
+            "type": "H3",
+            "text": "Acompanhamento de Hidratação"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "18px",
+          "12px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(16, 185, 129)",
+          "rgb(55, 65, 81)",
+          "rgb(220, 38, 38)",
+          "rgb(75, 85, 99)",
+          "rgb(29, 78, 216)",
+          "rgb(37, 99, 235)",
+          "rgb(156, 163, 175)",
+          "rgb(31, 41, 55)",
+          "rgb(30, 64, 175)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgb(16, 185, 129)",
+          "rgb(243, 244, 246)",
+          "rgb(239, 246, 255)",
+          "rgb(229, 231, 235)",
+          "rgb(37, 99, 235)"
+        ]
+      },
+      "botoes": 21,
+      "interativos": 28,
+      "screenshots": {
+        "mobile": "alimentacao-mobile.png",
+        "tablet": "alimentacao-tablet.png",
+        "desktop": "alimentacao-desktop.png",
+        "full": "alimentacao-full.png",
+        "header": "alimentacao-header.png"
+      }
+    },
+    {
+      "nome": "sono",
+      "url": "https://stayfocus-main.vercel.app/sono",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Gestão do Sono"
+          },
+          {
+            "type": "H2",
+            "text": "Registro de Sono"
+          },
+          {
+            "type": "H3",
+            "text": "Horário de dormir"
+          },
+          {
+            "type": "H3",
+            "text": "Horário de acordar"
+          },
+          {
+            "type": "H3",
+            "text": "Registros Recentes"
+          },
+          {
+            "type": "H3",
+            "text": "A importância do sono"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          },
+          {
+            "tag": "MAIN",
+            "childrenCount": 4
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "20px",
+          "18px",
+          "12px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(31, 41, 55)",
+          "rgb(55, 65, 81)",
+          "rgb(209, 213, 219)",
+          "rgb(75, 85, 99)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgba(237, 233, 255, 0.565)",
+          "rgb(93, 77, 178)"
+        ]
+      },
+      "botoes": 16,
+      "interativos": 26,
+      "screenshots": {
+        "mobile": "sono-mobile.png",
+        "tablet": "sono-tablet.png",
+        "desktop": "sono-desktop.png",
+        "full": "sono-full.png",
+        "header": "sono-header.png"
+      }
+    },
+    {
+      "nome": "lazer",
+      "url": "https://stayfocus-main.vercel.app/lazer",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Lazer"
+          },
+          {
+            "type": "H2",
+            "text": "Temporizador de Lazer"
+          },
+          {
+            "type": "H3",
+            "text": "Configurações"
+          },
+          {
+            "type": "H2",
+            "text": "Atividades de Lazer"
+          },
+          {
+            "type": "H3",
+            "text": "Atividades Realizadas"
+          },
+          {
+            "type": "H3",
+            "text": "Tempo de Lazer"
+          },
+          {
+            "type": "H3",
+            "text": "Categoria Favorita"
+          },
+          {
+            "type": "H3",
+            "text": "Suas Atividades"
+          },
+          {
+            "type": "H2",
+            "text": "Sugestões de Descanso"
+          },
+          {
+            "type": "H3",
+            "text": "Sugestões Favoritas"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "18px",
+          "12px",
+          "60px",
+          "20px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(55, 65, 81)",
+          "rgb(234, 179, 8)",
+          "rgb(133, 77, 14)",
+          "rgb(161, 98, 7)",
+          "rgb(22, 101, 52)",
+          "rgb(75, 85, 99)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgb(229, 231, 235)",
+          "rgb(139, 92, 246)",
+          "rgb(37, 99, 235)",
+          "rgb(239, 239, 239)",
+          "rgb(254, 252, 232)",
+          "rgb(243, 244, 246)",
+          "rgb(220, 252, 231)"
+        ]
+      },
+      "botoes": 13,
+      "interativos": 20,
+      "screenshots": {
+        "mobile": "lazer-mobile.png",
+        "tablet": "lazer-tablet.png",
+        "desktop": "lazer-desktop.png",
+        "full": "lazer-full.png",
+        "header": "lazer-header.png"
+      }
+    },
+    {
+      "nome": "estudos",
+      "url": "https://stayfocus-main.vercel.app/estudos",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Estudos"
+          },
+          {
+            "type": "H2",
+            "text": "Temporizador Pomodoro"
+          },
+          {
+            "type": "H3",
+            "text": "Tempo de foco"
+          },
+          {
+            "type": "H2",
+            "text": "Registro de Estudos"
+          },
+          {
+            "type": "H3",
+            "text": "Matemática - Álgebra Linear"
+          },
+          {
+            "type": "H3",
+            "text": "Inglês - Vocabulário"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "18px",
+          "20px",
+          "36px",
+          "12px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(255, 140, 0)",
+          "rgb(75, 85, 99)",
+          "rgb(31, 41, 55)",
+          "rgb(30, 64, 175)",
+          "rgb(55, 65, 81)",
+          "rgb(239, 68, 68)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgb(255, 243, 224)",
+          "rgb(22, 163, 74)",
+          "rgb(229, 231, 235)",
+          "rgb(219, 234, 254)",
+          "rgb(34, 197, 94)",
+          "rgb(243, 244, 246)"
+        ]
+      },
+      "botoes": 16,
+      "interativos": 21,
+      "screenshots": {
+        "mobile": "estudos-mobile.png",
+        "tablet": "estudos-tablet.png",
+        "desktop": "estudos-desktop.png",
+        "full": "estudos-full.png",
+        "header": "estudos-header.png"
+      }
+    },
+    {
+      "nome": "saude",
+      "url": "https://stayfocus-main.vercel.app/saude",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Saúde"
+          },
+          {
+            "type": "H2",
+            "text": "Registro de Medicamentos"
+          },
+          {
+            "type": "H3",
+            "text": "Total de Medicamentos"
+          },
+          {
+            "type": "H3",
+            "text": "Tomados Hoje"
+          },
+          {
+            "type": "H3",
+            "text": "Próxima Dose"
+          },
+          {
+            "type": "H3",
+            "text": "Seus Medicamentos"
+          },
+          {
+            "type": "H2",
+            "text": "Monitoramento de Humor"
+          },
+          {
+            "type": "H3",
+            "text": "Humor Médio"
+          },
+          {
+            "type": "H3",
+            "text": "Calendário de Humor"
+          },
+          {
+            "type": "H3",
+            "text": "Registros Recentes"
+          },
+          {
+            "type": "H3",
+            "text": "Nenhum registro encontrado"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "20px",
+          "12px",
+          "18px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(239, 68, 68)",
+          "rgb(156, 163, 175)",
+          "rgb(59, 130, 246)",
+          "rgb(30, 64, 175)",
+          "rgb(29, 78, 216)",
+          "rgb(75, 85, 99)",
+          "rgb(55, 65, 81)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgb(37, 99, 235)",
+          "rgb(243, 244, 246)",
+          "rgb(239, 246, 255)"
+        ]
+      },
+      "botoes": 41,
+      "interativos": 46,
+      "screenshots": {
+        "mobile": "saude-mobile.png",
+        "tablet": "saude-tablet.png",
+        "desktop": "saude-desktop.png",
+        "full": "saude-full.png",
+        "header": "saude-header.png"
+      }
+    },
+    {
+      "nome": "financas",
+      "url": "https://stayfocus-main.vercel.app/financas",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Finanças"
+          },
+          {
+            "type": "H2",
+            "text": "Rastreador de Gastos"
+          },
+          {
+            "type": "H3",
+            "text": "Total de Gastos: R$ 0,00"
+          },
+          {
+            "type": "H2",
+            "text": "Envelopes Virtuais"
+          },
+          {
+            "type": "H2",
+            "text": "Calendário de Pagamentos"
+          },
+          {
+            "type": "H3",
+            "text": "Março 2025"
+          },
+          {
+            "type": "H2",
+            "text": "Adicionar Despesa"
+          },
+          {
+            "type": "H3",
+            "text": "Dicas para registrar despesas"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "18px",
+          "12px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(75, 85, 99)",
+          "rgb(55, 65, 81)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgba(255, 82, 82, 0.125)",
+          "rgb(255, 82, 82)",
+          "rgba(76, 175, 80, 0.125)",
+          "rgb(76, 175, 80)",
+          "rgba(33, 150, 243, 0.125)",
+          "rgb(33, 150, 243)",
+          "rgba(255, 193, 7, 0.125)",
+          "rgb(255, 193, 7)",
+          "rgba(156, 39, 176, 0.125)",
+          "rgb(156, 39, 176)",
+          "rgb(229, 231, 235)",
+          "rgb(243, 244, 246)"
+        ]
+      },
+      "botoes": 25,
+      "interativos": 32,
+      "screenshots": {
+        "mobile": "financas-mobile.png",
+        "tablet": "financas-tablet.png",
+        "desktop": "financas-desktop.png",
+        "full": "financas-full.png",
+        "header": "financas-header.png"
+      }
+    },
+    {
+      "nome": "hiperfocos",
+      "url": "https://stayfocus-main.vercel.app/hiperfocos",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "🚀\nHiperfocos"
+          },
+          {
+            "type": "H2",
+            "text": "Conversor de Interesses"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "20px",
+          "12px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(31, 41, 55)",
+          "rgb(75, 85, 99)",
+          "rgb(249, 115, 22)",
+          "rgb(55, 65, 81)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgba(255, 247, 237, 0.565)",
+          "rgb(255, 82, 82)",
+          "rgb(76, 175, 80)",
+          "rgb(33, 150, 243)",
+          "rgb(255, 152, 0)",
+          "rgb(156, 39, 176)",
+          "rgb(121, 85, 72)",
+          "rgb(96, 125, 139)",
+          "rgb(249, 115, 22)"
+        ]
+      },
+      "botoes": 20,
+      "interativos": 29,
+      "screenshots": {
+        "mobile": "hiperfocos-mobile.png",
+        "tablet": "hiperfocos-tablet.png",
+        "desktop": "hiperfocos-desktop.png",
+        "full": "hiperfocos-full.png",
+        "header": "hiperfocos-header.png"
+      }
+    },
+    {
+      "nome": "autoconhecimento",
+      "url": "https://stayfocus-main.vercel.app/autoconhecimento",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Notas de Autoconhecimento"
+          },
+          {
+            "type": "H2",
+            "text": "Quem sou"
+          },
+          {
+            "type": "H1",
+            "text": "Quem sou"
+          },
+          {
+            "type": "H3",
+            "text": "Suas notas em Quem sou"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          },
+          {
+            "tag": "SECTION",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "18px",
+          "12px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(31, 41, 55)",
+          "rgb(55, 65, 81)",
+          "rgb(156, 163, 175)",
+          "rgb(75, 85, 99)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgba(249, 250, 251, 0.565)",
+          "rgb(107, 114, 128)"
+        ]
+      },
+      "botoes": 11,
+      "interativos": 17,
+      "screenshots": {
+        "mobile": "autoconhecimento-mobile.png",
+        "tablet": "autoconhecimento-tablet.png",
+        "desktop": "autoconhecimento-desktop.png",
+        "full": "autoconhecimento-full.png",
+        "header": "autoconhecimento-header.png"
+      }
+    },
+    {
+      "nome": "roadmap",
+      "url": "https://stayfocus-main.vercel.app/roadmap",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Roadmap do StayFocus"
+          },
+          {
+            "type": "H2",
+            "text": "💭 O conceito"
+          },
+          {
+            "type": "H2",
+            "text": "🛠️ O que já temos (Sprint 1)"
+          },
+          {
+            "type": "H3",
+            "text": "📱 Página Inicial"
+          },
+          {
+            "type": "H3",
+            "text": "🥗 Alimentação"
+          },
+          {
+            "type": "H3",
+            "text": "📚 Estudos"
+          },
+          {
+            "type": "H3",
+            "text": "❤️ Saúde"
+          },
+          {
+            "type": "H3",
+            "text": "🎮 Lazer"
+          },
+          {
+            "type": "H2",
+            "text": "⚙️ Sprint 2"
+          },
+          {
+            "type": "H3",
+            "text": "😴 Gestão do Sono"
+          },
+          {
+            "type": "H2",
+            "text": "⚙️ Sprint 3"
+          },
+          {
+            "type": "H3",
+            "text": "🧠 Notas de Autoconhecimento"
+          },
+          {
+            "type": "H3",
+            "text": "👤 Informações Pessoais"
+          },
+          {
+            "type": "H2",
+            "text": "⚙️ Sprint 4"
+          },
+          {
+            "type": "H3",
+            "text": "🔄 Melhorias de Interface"
+          },
+          {
+            "type": "H2",
+            "text": "🔮 Sprint 5 (Final)"
+          },
+          {
+            "type": "H3",
+            "text": "🔄 Sincronização e Apps Mobile"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          },
+          {
+            "tag": "SECTION",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "20px",
+          "12px",
+          "18px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(37, 99, 235)",
+          "rgb(22, 163, 74)",
+          "rgb(21, 128, 61)",
+          "rgb(31, 41, 55)",
+          "rgb(79, 70, 229)",
+          "rgb(147, 51, 234)",
+          "rgb(217, 119, 6)",
+          "rgb(225, 29, 72)",
+          "rgb(180, 83, 9)",
+          "rgb(146, 64, 14)",
+          "rgb(75, 85, 99)",
+          "rgb(55, 65, 81)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgb(220, 252, 231)",
+          "rgb(254, 243, 199)",
+          "rgb(255, 251, 235)"
+        ]
+      },
+      "botoes": 6,
+      "interativos": 11,
+      "screenshots": {
+        "mobile": "roadmap-mobile.png",
+        "tablet": "roadmap-tablet.png",
+        "desktop": "roadmap-desktop.png",
+        "full": "roadmap-full.png",
+        "header": "roadmap-header.png"
+      }
+    },
+    {
+      "nome": "perfil",
+      "url": "https://stayfocus-main.vercel.app/perfil",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Informações Pessoais"
+          },
+          {
+            "type": "H2",
+            "text": "Informações Básicas"
+          },
+          {
+            "type": "H2",
+            "text": "Metas Diárias"
+          },
+          {
+            "type": "H2",
+            "text": "Preferências de Acessibilidade"
+          },
+          {
+            "type": "H3",
+            "text": "Modos Visuais"
+          },
+          {
+            "type": "H3",
+            "text": "Preferências Gerais"
+          },
+          {
+            "type": "H2",
+            "text": "Importar/Exportar Dados"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "20px",
+          "24px",
+          "18px",
+          "12px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(31, 41, 55)",
+          "rgb(59, 130, 246)",
+          "rgb(55, 65, 81)",
+          "rgb(37, 99, 235)",
+          "rgb(75, 85, 99)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgb(93, 77, 178)",
+          "rgb(249, 115, 22)",
+          "rgb(16, 185, 129)",
+          "rgb(139, 92, 246)",
+          "rgb(17, 24, 39)",
+          "rgb(229, 231, 235)",
+          "rgb(107, 114, 128)",
+          "rgb(37, 99, 235)",
+          "rgb(239, 68, 68)",
+          "rgb(34, 197, 94)",
+          "rgb(243, 244, 246)"
+        ]
+      },
+      "botoes": 16,
+      "interativos": 23,
+      "screenshots": {
+        "mobile": "perfil-mobile.png",
+        "tablet": "perfil-tablet.png",
+        "desktop": "perfil-desktop.png",
+        "full": "perfil-full.png",
+        "header": "perfil-header.png"
+      }
+    },
+    {
+      "nome": "ajuda",
+      "url": "https://stayfocus-main.vercel.app/perfil/ajuda",
+      "titulo": "StayFocus",
+      "estrutura": {
+        "title": "StayFocus",
+        "headings": [
+          {
+            "type": "H1",
+            "text": "Ajuda: Importação e Exportação de Dados"
+          },
+          {
+            "type": "H2",
+            "text": "Exportação de Dados"
+          },
+          {
+            "type": "H3",
+            "text": "Como exportar seus dados:"
+          },
+          {
+            "type": "H2",
+            "text": "Importação de Dados"
+          },
+          {
+            "type": "H3",
+            "text": "Como importar seus dados:"
+          },
+          {
+            "type": "H2",
+            "text": "Perguntas Frequentes"
+          },
+          {
+            "type": "H3",
+            "text": "O que acontece com meus dados atuais quando faço uma importação?"
+          },
+          {
+            "type": "H3",
+            "text": "Posso transferir meus dados entre dispositivos diferentes?"
+          },
+          {
+            "type": "H3",
+            "text": "É seguro armazenar o arquivo de backup?"
+          },
+          {
+            "type": "H3",
+            "text": "Meu backup é compatível com versões futuras do StayFocus?"
+          }
+        ],
+        "mainSections": [
+          {
+            "tag": "MAIN",
+            "childrenCount": 2
+          }
+        ],
+        "hasNavigation": false,
+        "hasSidebar": false,
+        "hasFooter": true,
+        "fontSizes": [
+          "16px",
+          "14px",
+          "24px",
+          "12px"
+        ]
+      },
+      "cores": {
+        "textColors": [
+          "rgb(0, 0, 0)",
+          "rgb(17, 24, 39)",
+          "rgb(107, 114, 128)",
+          "rgb(93, 77, 178)",
+          "rgb(255, 255, 255)",
+          "rgb(37, 99, 235)",
+          "rgb(22, 163, 74)",
+          "rgb(217, 119, 6)",
+          "rgb(202, 138, 4)",
+          "rgb(133, 77, 14)",
+          "rgb(161, 98, 7)",
+          "rgb(75, 85, 99)",
+          "rgb(55, 65, 81)"
+        ],
+        "backgroundColors": [
+          "rgb(249, 250, 251)",
+          "rgb(255, 255, 255)",
+          "rgb(59, 130, 246)",
+          "rgb(239, 246, 255)",
+          "rgb(254, 252, 232)"
+        ]
+      },
+      "botoes": 6,
+      "interativos": 12,
+      "screenshots": {
+        "mobile": "ajuda-mobile.png",
+        "tablet": "ajuda-tablet.png",
+        "desktop": "ajuda-desktop.png",
+        "full": "ajuda-full.png",
+        "header": "ajuda-header.png"
+      }
+    }
+  ]
+}

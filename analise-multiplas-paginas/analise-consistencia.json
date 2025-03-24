@@ -1,0 +1,563 @@
+{
+  "totalPaginas": 12,
+  "coresTexto": [
+    {
+      "cor": "rgb(0, 0, 0)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(17, 24, 39)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(107, 114, 128)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(93, 77, 178)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(255, 255, 255)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(55, 65, 81)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(75, 85, 99)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(31, 41, 55)",
+      "count": 8,
+      "percentual": 67
+    },
+    {
+      "cor": "rgb(37, 99, 235)",
+      "count": 4,
+      "percentual": 33
+    },
+    {
+      "cor": "rgb(239, 68, 68)",
+      "count": 3,
+      "percentual": 25
+    },
+    {
+      "cor": "rgb(156, 163, 175)",
+      "count": 3,
+      "percentual": 25
+    },
+    {
+      "cor": "rgb(30, 64, 175)",
+      "count": 3,
+      "percentual": 25
+    },
+    {
+      "cor": "rgb(255, 140, 0)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(29, 78, 216)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(133, 77, 14)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(161, 98, 7)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(59, 130, 246)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(22, 163, 74)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(217, 119, 6)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(16, 185, 129)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(220, 38, 38)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(209, 213, 219)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(234, 179, 8)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(22, 101, 52)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(249, 115, 22)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(21, 128, 61)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(79, 70, 229)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(147, 51, 234)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(225, 29, 72)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(180, 83, 9)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(146, 64, 14)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(202, 138, 4)",
+      "count": 1,
+      "percentual": 8
+    }
+  ],
+  "coresFundo": [
+    {
+      "cor": "rgb(249, 250, 251)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(255, 255, 255)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(59, 130, 246)",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "cor": "rgb(243, 244, 246)",
+      "count": 7,
+      "percentual": 58
+    },
+    {
+      "cor": "rgb(229, 231, 235)",
+      "count": 6,
+      "percentual": 50
+    },
+    {
+      "cor": "rgb(37, 99, 235)",
+      "count": 5,
+      "percentual": 42
+    },
+    {
+      "cor": "rgb(239, 246, 255)",
+      "count": 3,
+      "percentual": 25
+    },
+    {
+      "cor": "rgb(22, 163, 74)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(16, 185, 129)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(93, 77, 178)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(139, 92, 246)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(254, 252, 232)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(220, 252, 231)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(34, 197, 94)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(255, 82, 82)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(76, 175, 80)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(33, 150, 243)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(156, 39, 176)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(249, 115, 22)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgb(107, 114, 128)",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "cor": "rgba(236, 253, 245, 0.565)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(255, 243, 224, 0.4)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(254, 242, 242, 0.565)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(245, 243, 255, 0.565)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(237, 233, 255, 0.565)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(239, 239, 239)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(255, 243, 224)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(219, 234, 254)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(255, 82, 82, 0.125)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(76, 175, 80, 0.125)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(33, 150, 243, 0.125)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(255, 193, 7, 0.125)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(255, 193, 7)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(156, 39, 176, 0.125)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(255, 247, 237, 0.565)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(255, 152, 0)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(121, 85, 72)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(96, 125, 139)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgba(249, 250, 251, 0.565)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(254, 243, 199)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(255, 251, 235)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(17, 24, 39)",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "cor": "rgb(239, 68, 68)",
+      "count": 1,
+      "percentual": 8
+    }
+  ],
+  "tamanhosFonte": [
+    {
+      "tamanho": "16px",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "tamanho": "14px",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "tamanho": "24px",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "tamanho": "12px",
+      "count": 12,
+      "percentual": 100
+    },
+    {
+      "tamanho": "18px",
+      "count": 10,
+      "percentual": 83
+    },
+    {
+      "tamanho": "20px",
+      "count": 8,
+      "percentual": 67
+    },
+    {
+      "tamanho": "36px",
+      "count": 2,
+      "percentual": 17
+    },
+    {
+      "tamanho": "60px",
+      "count": 1,
+      "percentual": 8
+    }
+  ],
+  "estruturas": [
+    {
+      "estrutura": "H1:Início|H2:Painel do Dia|H2:Prioridades do Dia|H2:Lembretes de Pausas|H3:Tempo de foco",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Alimentação|H2:Planejador de Refeições|H3:Adicionar Nova Refeição|H2:Registro de Refeições|H2:Hidratação|H3:Acompanhamento de Hidratação",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Gestão do Sono|H2:Registro de Sono|H3:Horário de dormir|H3:Horário de acordar|H3:Registros Recentes|H3:A importância do sono",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Lazer|H2:Temporizador de Lazer|H3:Configurações|H2:Atividades de Lazer|H3:Atividades Realizadas|H3:Tempo de Lazer|H3:Categoria Favorita|H3:Suas Atividades|H2:Sugestões de Descanso|H3:Sugestões Favoritas",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Estudos|H2:Temporizador Pomodoro|H3:Tempo de foco|H2:Registro de Estudos|H3:Matemática - Álgebra Linear|H3:Inglês - Vocabulário",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Saúde|H2:Registro de Medicamentos|H3:Total de Medicamentos|H3:Tomados Hoje|H3:Próxima Dose|H3:Seus Medicamentos|H2:Monitoramento de Humor|H3:Humor Médio|H3:Calendário de Humor|H3:Registros Recentes|H3:Nenhum registro encontrado",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Finanças|H2:Rastreador de Gastos|H3:Total de Gastos: R$ 0,00|H2:Envelopes Virtuais|H2:Calendário de Pagamentos|H3:Março 2025|H2:Adicionar Despesa|H3:Dicas para registrar despesas",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:🚀\nHiperfocos|H2:Conversor de Interesses",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Notas de Autoconhecimento|H2:Quem sou|H1:Quem sou|H3:Suas notas em Quem sou",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Roadmap do StayFocus|H2:💭 O conceito|H2:🛠️ O que já temos (Sprint 1)|H3:📱 Página Inicial|H3:🥗 Alimentação|H3:📚 Estudos|H3:❤️ Saúde|H3:🎮 Lazer|H2:⚙️ Sprint 2|H3:😴 Gestão do Sono|H2:⚙️ Sprint 3|H3:🧠 Notas de Autoconhecimento|H3:👤 Informações Pessoais|H2:⚙️ Sprint 4|H3:🔄 Melhorias de Interface|H2:🔮 Sprint 5 (Final)|H3:🔄 Sincronização e Apps Mobile",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Informações Pessoais|H2:Informações Básicas|H2:Metas Diárias|H2:Preferências de Acessibilidade|H3:Modos Visuais|H3:Preferências Gerais|H2:Importar/Exportar Dados",
+      "count": 1,
+      "percentual": 8
+    },
+    {
+      "estrutura": "H1:Ajuda: Importação e Exportação de Dados|H2:Exportação de Dados|H3:Como exportar seus dados:|H2:Importação de Dados|H3:Como importar seus dados:|H2:Perguntas Frequentes|H3:O que acontece com meus dados atuais quando faço uma importação?|H3:Posso transferir meus dados entre dispositivos diferentes?|H3:É seguro armazenar o arquivo de backup?|H3:Meu backup é compatível com versões futuras do StayFocus?",
+      "count": 1,
+      "percentual": 8
+    }
+  ],
+  "acessibilidade": {
+    "estatisticasPorPagina": [
+      {
+        "pagina": "perfil",
+        "totalBotoes": 16,
+        "botoesComAriaLabel": 9,
+        "percentualAcessibilidade": 56.25
+      },
+      {
+        "pagina": "sono",
+        "totalBotoes": 16,
+        "botoesComAriaLabel": 11,
+        "percentualAcessibilidade": 68.75
+      },
+      {
+        "pagina": "autoconhecimento",
+        "totalBotoes": 11,
+        "botoesComAriaLabel": 8,
+        "percentualAcessibilidade": 72.73
+      },
+      {
+        "pagina": "hiperfocos",
+        "totalBotoes": 20,
+        "botoesComAriaLabel": 16,
+        "percentualAcessibilidade": 80
+      },
+      {
+        "pagina": "alimentacao",
+        "totalBotoes": 21,
+        "botoesComAriaLabel": 20,
+        "percentualAcessibilidade": 95.24
+      },
+      {
+        "pagina": "financas",
+        "totalBotoes": 25,
+        "botoesComAriaLabel": 24,
+        "percentualAcessibilidade": 96
+      },
+      {
+        "pagina": "home",
+        "totalBotoes": 35,
+        "botoesComAriaLabel": 35,
+        "percentualAcessibilidade": 100
+      },
+      {
+        "pagina": "lazer",
+        "totalBotoes": 13,
+        "botoesComAriaLabel": 13,
+        "percentualAcessibilidade": 100
+      },
+      {
+        "pagina": "estudos",
+        "totalBotoes": 16,
+        "botoesComAriaLabel": 16,
+        "percentualAcessibilidade": 100
+      },
+      {
+        "pagina": "saude",
+        "totalBotoes": 41,
+        "botoesComAriaLabel": 41,
+        "percentualAcessibilidade": 100
+      },
+      {
+        "pagina": "roadmap",
+        "totalBotoes": 6,
+        "botoesComAriaLabel": 6,
+        "percentualAcessibilidade": 100
+      },
+      {
+        "pagina": "ajuda",
+        "totalBotoes": 6,
+        "botoesComAriaLabel": 6,
+        "percentualAcessibilidade": 100
+      }
+    ],
+    "mediaAcessibilidade": 89.08083333333333
+  }
+}

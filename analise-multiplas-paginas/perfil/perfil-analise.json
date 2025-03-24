@@ -1,0 +1,412 @@
+{
+  "nome": "perfil",
+  "url": "https://stayfocus-main.vercel.app/perfil",
+  "titulo": "StayFocus",
+  "estrutura": {
+    "title": "StayFocus",
+    "headings": [
+      {
+        "type": "H1",
+        "text": "Informações Pessoais"
+      },
+      {
+        "type": "H2",
+        "text": "Informações Básicas"
+      },
+      {
+        "type": "H2",
+        "text": "Metas Diárias"
+      },
+      {
+        "type": "H2",
+        "text": "Preferências de Acessibilidade"
+      },
+      {
+        "type": "H3",
+        "text": "Modos Visuais"
+      },
+      {
+        "type": "H3",
+        "text": "Preferências Gerais"
+      },
+      {
+        "type": "H2",
+        "text": "Importar/Exportar Dados"
+      }
+    ],
+    "mainSections": [
+      {
+        "tag": "MAIN",
+        "childrenCount": 2
+      }
+    ],
+    "hasNavigation": false,
+    "hasSidebar": false,
+    "hasFooter": true,
+    "fontSizes": [
+      "16px",
+      "14px",
+      "20px",
+      "24px",
+      "18px",
+      "12px"
+    ]
+  },
+  "cores": {
+    "textColors": [
+      "rgb(0, 0, 0)",
+      "rgb(17, 24, 39)",
+      "rgb(107, 114, 128)",
+      "rgb(93, 77, 178)",
+      "rgb(255, 255, 255)",
+      "rgb(31, 41, 55)",
+      "rgb(59, 130, 246)",
+      "rgb(55, 65, 81)",
+      "rgb(37, 99, 235)",
+      "rgb(75, 85, 99)"
+    ],
+    "backgroundColors": [
+      "rgb(249, 250, 251)",
+      "rgb(255, 255, 255)",
+      "rgb(59, 130, 246)",
+      "rgb(93, 77, 178)",
+      "rgb(249, 115, 22)",
+      "rgb(16, 185, 129)",
+      "rgb(139, 92, 246)",
+      "rgb(17, 24, 39)",
+      "rgb(229, 231, 235)",
+      "rgb(107, 114, 128)",
+      "rgb(37, 99, 235)",
+      "rgb(239, 68, 68)",
+      "rgb(34, 197, 94)",
+      "rgb(243, 244, 246)"
+    ]
+  },
+  "botoes": 16,
+  "interativos": 23,
+  "screenshots": {
+    "mobile": "perfil-mobile.png",
+    "tablet": "perfil-tablet.png",
+    "desktop": "perfil-desktop.png",
+    "full": "perfil-full.png",
+    "header": "perfil-header.png"
+  },
+  "detalhes": {
+    "cores": {
+      "textColors": [
+        "rgb(0, 0, 0)",
+        "rgb(17, 24, 39)",
+        "rgb(107, 114, 128)",
+        "rgb(93, 77, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(31, 41, 55)",
+        "rgb(59, 130, 246)",
+        "rgb(55, 65, 81)",
+        "rgb(37, 99, 235)",
+        "rgb(75, 85, 99)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 250, 251)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 130, 246)",
+        "rgb(93, 77, 178)",
+        "rgb(249, 115, 22)",
+        "rgb(16, 185, 129)",
+        "rgb(139, 92, 246)",
+        "rgb(17, 24, 39)",
+        "rgb(229, 231, 235)",
+        "rgb(107, 114, 128)",
+        "rgb(37, 99, 235)",
+        "rgb(239, 68, 68)",
+        "rgb(34, 197, 94)",
+        "rgb(243, 244, 246)"
+      ]
+    },
+    "botoes": {
+      "buttons": [
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Abrir menu",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Gestão do Sono",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Notas de Autoconhecimento",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Mudar para tema escuro",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Roadmap e Ajuda",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "U",
+          "ariaLabel": "Informações Pessoais",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Redefinir",
+          "ariaLabel": "Redefinir configurações",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Editar nome",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Personalizar",
+          "ariaLabel": "Editar metas",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Ativar alto contraste",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Ativar redução de estímulos",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Ativar texto grande",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Ativar notificações",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Ativar pausas programadas",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Exportar Dados",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Importar Dados",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        }
+      ]
+    },
+    "interativos": {
+      "interactiveElements": [
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "INPUT",
+          "inputType": "file",
+          "placeholder": "",
+          "hasLabel": false
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": true
+        }
+      ]
+    },
+    "estrutura": {
+      "title": "StayFocus",
+      "headings": [
+        {
+          "type": "H1",
+          "text": "Informações Pessoais"
+        },
+        {
+          "type": "H2",
+          "text": "Informações Básicas"
+        },
+        {
+          "type": "H2",
+          "text": "Metas Diárias"
+        },
+        {
+          "type": "H2",
+          "text": "Preferências de Acessibilidade"
+        },
+        {
+          "type": "H3",
+          "text": "Modos Visuais"
+        },
+        {
+          "type": "H3",
+          "text": "Preferências Gerais"
+        },
+        {
+          "type": "H2",
+          "text": "Importar/Exportar Dados"
+        }
+      ],
+      "mainSections": [
+        {
+          "tag": "MAIN",
+          "childrenCount": 2
+        }
+      ],
+      "hasNavigation": false,
+      "hasSidebar": false,
+      "hasFooter": true,
+      "fontSizes": [
+        "16px",
+        "14px",
+        "20px",
+        "24px",
+        "18px",
+        "12px"
+      ]
+    }
+  }
+}

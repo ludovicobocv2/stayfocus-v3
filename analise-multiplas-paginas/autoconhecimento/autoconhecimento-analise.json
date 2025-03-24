@@ -1,0 +1,309 @@
+{
+  "nome": "autoconhecimento",
+  "url": "https://stayfocus-main.vercel.app/autoconhecimento",
+  "titulo": "StayFocus",
+  "estrutura": {
+    "title": "StayFocus",
+    "headings": [
+      {
+        "type": "H1",
+        "text": "Notas de Autoconhecimento"
+      },
+      {
+        "type": "H2",
+        "text": "Quem sou"
+      },
+      {
+        "type": "H1",
+        "text": "Quem sou"
+      },
+      {
+        "type": "H3",
+        "text": "Suas notas em Quem sou"
+      }
+    ],
+    "mainSections": [
+      {
+        "tag": "MAIN",
+        "childrenCount": 2
+      },
+      {
+        "tag": "SECTION",
+        "childrenCount": 2
+      }
+    ],
+    "hasNavigation": false,
+    "hasSidebar": false,
+    "hasFooter": true,
+    "fontSizes": [
+      "16px",
+      "14px",
+      "24px",
+      "18px",
+      "12px"
+    ]
+  },
+  "cores": {
+    "textColors": [
+      "rgb(0, 0, 0)",
+      "rgb(17, 24, 39)",
+      "rgb(107, 114, 128)",
+      "rgb(93, 77, 178)",
+      "rgb(255, 255, 255)",
+      "rgb(31, 41, 55)",
+      "rgb(55, 65, 81)",
+      "rgb(156, 163, 175)",
+      "rgb(75, 85, 99)"
+    ],
+    "backgroundColors": [
+      "rgb(249, 250, 251)",
+      "rgb(255, 255, 255)",
+      "rgb(59, 130, 246)",
+      "rgba(249, 250, 251, 0.565)",
+      "rgb(107, 114, 128)"
+    ]
+  },
+  "botoes": 11,
+  "interativos": 17,
+  "screenshots": {
+    "mobile": "autoconhecimento-mobile.png",
+    "tablet": "autoconhecimento-tablet.png",
+    "desktop": "autoconhecimento-desktop.png",
+    "full": "autoconhecimento-full.png",
+    "header": "autoconhecimento-header.png"
+  },
+  "detalhes": {
+    "cores": {
+      "textColors": [
+        "rgb(0, 0, 0)",
+        "rgb(17, 24, 39)",
+        "rgb(107, 114, 128)",
+        "rgb(93, 77, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(31, 41, 55)",
+        "rgb(55, 65, 81)",
+        "rgb(156, 163, 175)",
+        "rgb(75, 85, 99)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 250, 251)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 130, 246)",
+        "rgba(249, 250, 251, 0.565)",
+        "rgb(107, 114, 128)"
+      ]
+    },
+    "botoes": {
+      "buttons": [
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Abrir menu",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Gestão do Sono",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Notas de Autoconhecimento",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Mudar para tema escuro",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Roadmap e Ajuda",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "U",
+          "ariaLabel": "Informações Pessoais",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Quem sou",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Meus porquês",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Meus padrões",
+          "ariaLabel": "[sem aria-label]",
+          "hasAriaLabel": false,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Nova nota",
+          "ariaLabel": "Criar nova nota",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Ativar modo refúgio",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        }
+      ]
+    },
+    "interativos": {
+      "interactiveElements": [
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "INPUT",
+          "inputType": "text",
+          "placeholder": "Buscar notas...",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": true
+        }
+      ]
+    },
+    "estrutura": {
+      "title": "StayFocus",
+      "headings": [
+        {
+          "type": "H1",
+          "text": "Notas de Autoconhecimento"
+        },
+        {
+          "type": "H2",
+          "text": "Quem sou"
+        },
+        {
+          "type": "H1",
+          "text": "Quem sou"
+        },
+        {
+          "type": "H3",
+          "text": "Suas notas em Quem sou"
+        }
+      ],
+      "mainSections": [
+        {
+          "tag": "MAIN",
+          "childrenCount": 2
+        },
+        {
+          "tag": "SECTION",
+          "childrenCount": 2
+        }
+      ],
+      "hasNavigation": false,
+      "hasSidebar": false,
+      "hasFooter": true,
+      "fontSizes": [
+        "16px",
+        "14px",
+        "24px",
+        "18px",
+        "12px"
+      ]
+    }
+  }
+}

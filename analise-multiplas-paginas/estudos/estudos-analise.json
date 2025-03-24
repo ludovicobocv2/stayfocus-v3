@@ -1,0 +1,387 @@
+{
+  "nome": "estudos",
+  "url": "https://stayfocus-main.vercel.app/estudos",
+  "titulo": "StayFocus",
+  "estrutura": {
+    "title": "StayFocus",
+    "headings": [
+      {
+        "type": "H1",
+        "text": "Estudos"
+      },
+      {
+        "type": "H2",
+        "text": "Temporizador Pomodoro"
+      },
+      {
+        "type": "H3",
+        "text": "Tempo de foco"
+      },
+      {
+        "type": "H2",
+        "text": "Registro de Estudos"
+      },
+      {
+        "type": "H3",
+        "text": "Matemática - Álgebra Linear"
+      },
+      {
+        "type": "H3",
+        "text": "Inglês - Vocabulário"
+      }
+    ],
+    "mainSections": [
+      {
+        "tag": "MAIN",
+        "childrenCount": 2
+      }
+    ],
+    "hasNavigation": false,
+    "hasSidebar": false,
+    "hasFooter": true,
+    "fontSizes": [
+      "16px",
+      "14px",
+      "24px",
+      "18px",
+      "20px",
+      "36px",
+      "12px"
+    ]
+  },
+  "cores": {
+    "textColors": [
+      "rgb(0, 0, 0)",
+      "rgb(17, 24, 39)",
+      "rgb(107, 114, 128)",
+      "rgb(93, 77, 178)",
+      "rgb(255, 255, 255)",
+      "rgb(255, 140, 0)",
+      "rgb(75, 85, 99)",
+      "rgb(31, 41, 55)",
+      "rgb(30, 64, 175)",
+      "rgb(55, 65, 81)",
+      "rgb(239, 68, 68)"
+    ],
+    "backgroundColors": [
+      "rgb(249, 250, 251)",
+      "rgb(255, 255, 255)",
+      "rgb(59, 130, 246)",
+      "rgb(255, 243, 224)",
+      "rgb(22, 163, 74)",
+      "rgb(229, 231, 235)",
+      "rgb(219, 234, 254)",
+      "rgb(34, 197, 94)",
+      "rgb(243, 244, 246)"
+    ]
+  },
+  "botoes": 16,
+  "interativos": 21,
+  "screenshots": {
+    "mobile": "estudos-mobile.png",
+    "tablet": "estudos-tablet.png",
+    "desktop": "estudos-desktop.png",
+    "full": "estudos-full.png",
+    "header": "estudos-header.png"
+  },
+  "detalhes": {
+    "cores": {
+      "textColors": [
+        "rgb(0, 0, 0)",
+        "rgb(17, 24, 39)",
+        "rgb(107, 114, 128)",
+        "rgb(93, 77, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(255, 140, 0)",
+        "rgb(75, 85, 99)",
+        "rgb(31, 41, 55)",
+        "rgb(30, 64, 175)",
+        "rgb(55, 65, 81)",
+        "rgb(239, 68, 68)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 250, 251)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 130, 246)",
+        "rgb(255, 243, 224)",
+        "rgb(22, 163, 74)",
+        "rgb(229, 231, 235)",
+        "rgb(219, 234, 254)",
+        "rgb(34, 197, 94)",
+        "rgb(243, 244, 246)"
+      ]
+    },
+    "botoes": {
+      "buttons": [
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Abrir menu",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Gestão do Sono",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Notas de Autoconhecimento",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Mudar para tema escuro",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Roadmap e Ajuda",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "U",
+          "ariaLabel": "Informações Pessoais",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Iniciar",
+          "ariaLabel": "Iniciar temporizador",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Reiniciar",
+          "ariaLabel": "Reiniciar temporizador",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Ajustar",
+          "ariaLabel": "Configurações do temporizador",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Marcar como incompleto",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Editar sessão",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Remover sessão",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Marcar como completo",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Editar sessão",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Remover sessão",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Adicionar Sessão de Estudo",
+          "ariaLabel": "Adicionar nova sessão de estudo",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        }
+      ]
+    },
+    "interativos": {
+      "interactiveElements": [
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": true
+        }
+      ]
+    },
+    "estrutura": {
+      "title": "StayFocus",
+      "headings": [
+        {
+          "type": "H1",
+          "text": "Estudos"
+        },
+        {
+          "type": "H2",
+          "text": "Temporizador Pomodoro"
+        },
+        {
+          "type": "H3",
+          "text": "Tempo de foco"
+        },
+        {
+          "type": "H2",
+          "text": "Registro de Estudos"
+        },
+        {
+          "type": "H3",
+          "text": "Matemática - Álgebra Linear"
+        },
+        {
+          "type": "H3",
+          "text": "Inglês - Vocabulário"
+        }
+      ],
+      "mainSections": [
+        {
+          "tag": "MAIN",
+          "childrenCount": 2
+        }
+      ],
+      "hasNavigation": false,
+      "hasSidebar": false,
+      "hasFooter": true,
+      "fontSizes": [
+        "16px",
+        "14px",
+        "24px",
+        "18px",
+        "20px",
+        "36px",
+        "12px"
+      ]
+    }
+  }
+}

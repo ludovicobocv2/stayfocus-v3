@@ -1,0 +1,74 @@
+[
+  {
+    "nome": "home",
+    "titulo": "StayFocus",
+    "botoes": 35,
+    "interativos": 41
+  },
+  {
+    "nome": "alimentacao",
+    "titulo": "StayFocus",
+    "botoes": 21,
+    "interativos": 28
+  },
+  {
+    "nome": "sono",
+    "titulo": "StayFocus",
+    "botoes": 16,
+    "interativos": 26
+  },
+  {
+    "nome": "lazer",
+    "titulo": "StayFocus",
+    "botoes": 13,
+    "interativos": 20
+  },
+  {
+    "nome": "estudos",
+    "titulo": "StayFocus",
+    "botoes": 16,
+    "interativos": 21
+  },
+  {
+    "nome": "saude",
+    "titulo": "StayFocus",
+    "botoes": 41,
+    "interativos": 46
+  },
+  {
+    "nome": "financas",
+    "titulo": "StayFocus",
+    "botoes": 25,
+    "interativos": 32
+  },
+  {
+    "nome": "hiperfocos",
+    "titulo": "StayFocus",
+    "botoes": 20,
+    "interativos": 29
+  },
+  {
+    "nome": "autoconhecimento",
+    "titulo": "StayFocus",
+    "botoes": 11,
+    "interativos": 17
+  },
+  {
+    "nome": "roadmap",
+    "titulo": "StayFocus",
+    "botoes": 6,
+    "interativos": 11
+  },
+  {
+    "nome": "perfil",
+    "titulo": "StayFocus",
+    "botoes": 16,
+    "interativos": 23
+  },
+  {
+    "nome": "ajuda",
+    "titulo": "StayFocus",
+    "botoes": 6,
+    "interativos": 12
+  }
+]

@@ -1,0 +1,367 @@
+{
+  "nome": "roadmap",
+  "url": "https://stayfocus-main.vercel.app/roadmap",
+  "titulo": "StayFocus",
+  "estrutura": {
+    "title": "StayFocus",
+    "headings": [
+      {
+        "type": "H1",
+        "text": "Roadmap do StayFocus"
+      },
+      {
+        "type": "H2",
+        "text": "💭 O conceito"
+      },
+      {
+        "type": "H2",
+        "text": "🛠️ O que já temos (Sprint 1)"
+      },
+      {
+        "type": "H3",
+        "text": "📱 Página Inicial"
+      },
+      {
+        "type": "H3",
+        "text": "🥗 Alimentação"
+      },
+      {
+        "type": "H3",
+        "text": "📚 Estudos"
+      },
+      {
+        "type": "H3",
+        "text": "❤️ Saúde"
+      },
+      {
+        "type": "H3",
+        "text": "🎮 Lazer"
+      },
+      {
+        "type": "H2",
+        "text": "⚙️ Sprint 2"
+      },
+      {
+        "type": "H3",
+        "text": "😴 Gestão do Sono"
+      },
+      {
+        "type": "H2",
+        "text": "⚙️ Sprint 3"
+      },
+      {
+        "type": "H3",
+        "text": "🧠 Notas de Autoconhecimento"
+      },
+      {
+        "type": "H3",
+        "text": "👤 Informações Pessoais"
+      },
+      {
+        "type": "H2",
+        "text": "⚙️ Sprint 4"
+      },
+      {
+        "type": "H3",
+        "text": "🔄 Melhorias de Interface"
+      },
+      {
+        "type": "H2",
+        "text": "🔮 Sprint 5 (Final)"
+      },
+      {
+        "type": "H3",
+        "text": "🔄 Sincronização e Apps Mobile"
+      }
+    ],
+    "mainSections": [
+      {
+        "tag": "MAIN",
+        "childrenCount": 2
+      },
+      {
+        "tag": "SECTION",
+        "childrenCount": 2
+      }
+    ],
+    "hasNavigation": false,
+    "hasSidebar": false,
+    "hasFooter": true,
+    "fontSizes": [
+      "16px",
+      "14px",
+      "24px",
+      "20px",
+      "12px",
+      "18px"
+    ]
+  },
+  "cores": {
+    "textColors": [
+      "rgb(0, 0, 0)",
+      "rgb(17, 24, 39)",
+      "rgb(107, 114, 128)",
+      "rgb(93, 77, 178)",
+      "rgb(255, 255, 255)",
+      "rgb(37, 99, 235)",
+      "rgb(22, 163, 74)",
+      "rgb(21, 128, 61)",
+      "rgb(31, 41, 55)",
+      "rgb(79, 70, 229)",
+      "rgb(147, 51, 234)",
+      "rgb(217, 119, 6)",
+      "rgb(225, 29, 72)",
+      "rgb(180, 83, 9)",
+      "rgb(146, 64, 14)",
+      "rgb(75, 85, 99)",
+      "rgb(55, 65, 81)"
+    ],
+    "backgroundColors": [
+      "rgb(249, 250, 251)",
+      "rgb(255, 255, 255)",
+      "rgb(59, 130, 246)",
+      "rgb(220, 252, 231)",
+      "rgb(254, 243, 199)",
+      "rgb(255, 251, 235)"
+    ]
+  },
+  "botoes": 6,
+  "interativos": 11,
+  "screenshots": {
+    "mobile": "roadmap-mobile.png",
+    "tablet": "roadmap-tablet.png",
+    "desktop": "roadmap-desktop.png",
+    "full": "roadmap-full.png",
+    "header": "roadmap-header.png"
+  },
+  "detalhes": {
+    "cores": {
+      "textColors": [
+        "rgb(0, 0, 0)",
+        "rgb(17, 24, 39)",
+        "rgb(107, 114, 128)",
+        "rgb(93, 77, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(37, 99, 235)",
+        "rgb(22, 163, 74)",
+        "rgb(21, 128, 61)",
+        "rgb(31, 41, 55)",
+        "rgb(79, 70, 229)",
+        "rgb(147, 51, 234)",
+        "rgb(217, 119, 6)",
+        "rgb(225, 29, 72)",
+        "rgb(180, 83, 9)",
+        "rgb(146, 64, 14)",
+        "rgb(75, 85, 99)",
+        "rgb(55, 65, 81)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 250, 251)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 130, 246)",
+        "rgb(220, 252, 231)",
+        "rgb(254, 243, 199)",
+        "rgb(255, 251, 235)"
+      ]
+    },
+    "botoes": {
+      "buttons": [
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Abrir menu",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Gestão do Sono",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Notas de Autoconhecimento",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Mudar para tema escuro",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Roadmap e Ajuda",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "U",
+          "ariaLabel": "Informações Pessoais",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        }
+      ]
+    },
+    "interativos": {
+      "interactiveElements": [
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": true
+        }
+      ]
+    },
+    "estrutura": {
+      "title": "StayFocus",
+      "headings": [
+        {
+          "type": "H1",
+          "text": "Roadmap do StayFocus"
+        },
+        {
+          "type": "H2",
+          "text": "💭 O conceito"
+        },
+        {
+          "type": "H2",
+          "text": "🛠️ O que já temos (Sprint 1)"
+        },
+        {
+          "type": "H3",
+          "text": "📱 Página Inicial"
+        },
+        {
+          "type": "H3",
+          "text": "🥗 Alimentação"
+        },
+        {
+          "type": "H3",
+          "text": "📚 Estudos"
+        },
+        {
+          "type": "H3",
+          "text": "❤️ Saúde"
+        },
+        {
+          "type": "H3",
+          "text": "🎮 Lazer"
+        },
+        {
+          "type": "H2",
+          "text": "⚙️ Sprint 2"
+        },
+        {
+          "type": "H3",
+          "text": "😴 Gestão do Sono"
+        },
+        {
+          "type": "H2",
+          "text": "⚙️ Sprint 3"
+        },
+        {
+          "type": "H3",
+          "text": "🧠 Notas de Autoconhecimento"
+        },
+        {
+          "type": "H3",
+          "text": "👤 Informações Pessoais"
+        },
+        {
+          "type": "H2",
+          "text": "⚙️ Sprint 4"
+        },
+        {
+          "type": "H3",
+          "text": "🔄 Melhorias de Interface"
+        },
+        {
+          "type": "H2",
+          "text": "🔮 Sprint 5 (Final)"
+        },
+        {
+          "type": "H3",
+          "text": "🔄 Sincronização e Apps Mobile"
+        }
+      ],
+      "mainSections": [
+        {
+          "tag": "MAIN",
+          "childrenCount": 2
+        },
+        {
+          "tag": "SECTION",
+          "childrenCount": 2
+        }
+      ],
+      "hasNavigation": false,
+      "hasSidebar": false,
+      "hasFooter": true,
+      "fontSizes": [
+        "16px",
+        "14px",
+        "24px",
+        "20px",
+        "12px",
+        "18px"
+      ]
+    }
+  }
+}

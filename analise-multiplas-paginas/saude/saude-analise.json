@@ -1,0 +1,721 @@
+{
+  "nome": "saude",
+  "url": "https://stayfocus-main.vercel.app/saude",
+  "titulo": "StayFocus",
+  "estrutura": {
+    "title": "StayFocus",
+    "headings": [
+      {
+        "type": "H1",
+        "text": "Saúde"
+      },
+      {
+        "type": "H2",
+        "text": "Registro de Medicamentos"
+      },
+      {
+        "type": "H3",
+        "text": "Total de Medicamentos"
+      },
+      {
+        "type": "H3",
+        "text": "Tomados Hoje"
+      },
+      {
+        "type": "H3",
+        "text": "Próxima Dose"
+      },
+      {
+        "type": "H3",
+        "text": "Seus Medicamentos"
+      },
+      {
+        "type": "H2",
+        "text": "Monitoramento de Humor"
+      },
+      {
+        "type": "H3",
+        "text": "Humor Médio"
+      },
+      {
+        "type": "H3",
+        "text": "Calendário de Humor"
+      },
+      {
+        "type": "H3",
+        "text": "Registros Recentes"
+      },
+      {
+        "type": "H3",
+        "text": "Nenhum registro encontrado"
+      }
+    ],
+    "mainSections": [
+      {
+        "tag": "MAIN",
+        "childrenCount": 2
+      }
+    ],
+    "hasNavigation": false,
+    "hasSidebar": false,
+    "hasFooter": true,
+    "fontSizes": [
+      "16px",
+      "14px",
+      "24px",
+      "20px",
+      "12px",
+      "18px"
+    ]
+  },
+  "cores": {
+    "textColors": [
+      "rgb(0, 0, 0)",
+      "rgb(17, 24, 39)",
+      "rgb(107, 114, 128)",
+      "rgb(93, 77, 178)",
+      "rgb(255, 255, 255)",
+      "rgb(239, 68, 68)",
+      "rgb(156, 163, 175)",
+      "rgb(59, 130, 246)",
+      "rgb(30, 64, 175)",
+      "rgb(29, 78, 216)",
+      "rgb(75, 85, 99)",
+      "rgb(55, 65, 81)"
+    ],
+    "backgroundColors": [
+      "rgb(249, 250, 251)",
+      "rgb(255, 255, 255)",
+      "rgb(59, 130, 246)",
+      "rgb(37, 99, 235)",
+      "rgb(243, 244, 246)",
+      "rgb(239, 246, 255)"
+    ]
+  },
+  "botoes": 41,
+  "interativos": 46,
+  "screenshots": {
+    "mobile": "saude-mobile.png",
+    "tablet": "saude-tablet.png",
+    "desktop": "saude-desktop.png",
+    "full": "saude-full.png",
+    "header": "saude-header.png"
+  },
+  "detalhes": {
+    "cores": {
+      "textColors": [
+        "rgb(0, 0, 0)",
+        "rgb(17, 24, 39)",
+        "rgb(107, 114, 128)",
+        "rgb(93, 77, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(239, 68, 68)",
+        "rgb(156, 163, 175)",
+        "rgb(59, 130, 246)",
+        "rgb(30, 64, 175)",
+        "rgb(29, 78, 216)",
+        "rgb(75, 85, 99)",
+        "rgb(55, 65, 81)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 250, 251)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 130, 246)",
+        "rgb(37, 99, 235)",
+        "rgb(243, 244, 246)",
+        "rgb(239, 246, 255)"
+      ]
+    },
+    "botoes": {
+      "buttons": [
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Abrir menu",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Gestão do Sono",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Notas de Autoconhecimento",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Mudar para tema escuro",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Roadmap e Ajuda",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "U",
+          "ariaLabel": "Informações Pessoais",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Novo Medicamento",
+          "ariaLabel": "Adicionar novo medicamento",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "Novo Registro",
+          "ariaLabel": "Adicionar novo registro de humor",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "←",
+          "ariaLabel": "Mês anterior",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "→",
+          "ariaLabel": "Próximo mês",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "1",
+          "ariaLabel": "Dia 1, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "2",
+          "ariaLabel": "Dia 2, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "3",
+          "ariaLabel": "Dia 3, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "4",
+          "ariaLabel": "Dia 4, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "5",
+          "ariaLabel": "Dia 5, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "6",
+          "ariaLabel": "Dia 6, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "7",
+          "ariaLabel": "Dia 7, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "8",
+          "ariaLabel": "Dia 8, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "9",
+          "ariaLabel": "Dia 9, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "10",
+          "ariaLabel": "Dia 10, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "11",
+          "ariaLabel": "Dia 11, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "12",
+          "ariaLabel": "Dia 12, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "13",
+          "ariaLabel": "Dia 13, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "14",
+          "ariaLabel": "Dia 14, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "15",
+          "ariaLabel": "Dia 15, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "16",
+          "ariaLabel": "Dia 16, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "17",
+          "ariaLabel": "Dia 17, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "18",
+          "ariaLabel": "Dia 18, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "19",
+          "ariaLabel": "Dia 19, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "20",
+          "ariaLabel": "Dia 20, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "21",
+          "ariaLabel": "Dia 21, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "22",
+          "ariaLabel": "Dia 22, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "23",
+          "ariaLabel": "Dia 23, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "24",
+          "ariaLabel": "Dia 24, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "25",
+          "ariaLabel": "Dia 25, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "26",
+          "ariaLabel": "Dia 26, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "27",
+          "ariaLabel": "Dia 27, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "28",
+          "ariaLabel": "Dia 28, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "29",
+          "ariaLabel": "Dia 29, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "30",
+          "ariaLabel": "Dia 30, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "31",
+          "ariaLabel": "Dia 31, nível de humor não registrado",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        }
+      ]
+    },
+    "interativos": {
+      "interactiveElements": [
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": true
+        }
+      ]
+    },
+    "estrutura": {
+      "title": "StayFocus",
+      "headings": [
+        {
+          "type": "H1",
+          "text": "Saúde"
+        },
+        {
+          "type": "H2",
+          "text": "Registro de Medicamentos"
+        },
+        {
+          "type": "H3",
+          "text": "Total de Medicamentos"
+        },
+        {
+          "type": "H3",
+          "text": "Tomados Hoje"
+        },
+        {
+          "type": "H3",
+          "text": "Próxima Dose"
+        },
+        {
+          "type": "H3",
+          "text": "Seus Medicamentos"
+        },
+        {
+          "type": "H2",
+          "text": "Monitoramento de Humor"
+        },
+        {
+          "type": "H3",
+          "text": "Humor Médio"
+        },
+        {
+          "type": "H3",
+          "text": "Calendário de Humor"
+        },
+        {
+          "type": "H3",
+          "text": "Registros Recentes"
+        },
+        {
+          "type": "H3",
+          "text": "Nenhum registro encontrado"
+        }
+      ],
+      "mainSections": [
+        {
+          "tag": "MAIN",
+          "childrenCount": 2
+        }
+      ],
+      "hasNavigation": false,
+      "hasSidebar": false,
+      "hasFooter": true,
+      "fontSizes": [
+        "16px",
+        "14px",
+        "24px",
+        "20px",
+        "12px",
+        "18px"
+      ]
+    }
+  }
+}

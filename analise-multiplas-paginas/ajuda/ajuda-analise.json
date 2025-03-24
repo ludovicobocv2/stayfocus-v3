@@ -1,0 +1,294 @@
+{
+  "nome": "ajuda",
+  "url": "https://stayfocus-main.vercel.app/perfil/ajuda",
+  "titulo": "StayFocus",
+  "estrutura": {
+    "title": "StayFocus",
+    "headings": [
+      {
+        "type": "H1",
+        "text": "Ajuda: Importação e Exportação de Dados"
+      },
+      {
+        "type": "H2",
+        "text": "Exportação de Dados"
+      },
+      {
+        "type": "H3",
+        "text": "Como exportar seus dados:"
+      },
+      {
+        "type": "H2",
+        "text": "Importação de Dados"
+      },
+      {
+        "type": "H3",
+        "text": "Como importar seus dados:"
+      },
+      {
+        "type": "H2",
+        "text": "Perguntas Frequentes"
+      },
+      {
+        "type": "H3",
+        "text": "O que acontece com meus dados atuais quando faço uma importação?"
+      },
+      {
+        "type": "H3",
+        "text": "Posso transferir meus dados entre dispositivos diferentes?"
+      },
+      {
+        "type": "H3",
+        "text": "É seguro armazenar o arquivo de backup?"
+      },
+      {
+        "type": "H3",
+        "text": "Meu backup é compatível com versões futuras do StayFocus?"
+      }
+    ],
+    "mainSections": [
+      {
+        "tag": "MAIN",
+        "childrenCount": 2
+      }
+    ],
+    "hasNavigation": false,
+    "hasSidebar": false,
+    "hasFooter": true,
+    "fontSizes": [
+      "16px",
+      "14px",
+      "24px",
+      "12px"
+    ]
+  },
+  "cores": {
+    "textColors": [
+      "rgb(0, 0, 0)",
+      "rgb(17, 24, 39)",
+      "rgb(107, 114, 128)",
+      "rgb(93, 77, 178)",
+      "rgb(255, 255, 255)",
+      "rgb(37, 99, 235)",
+      "rgb(22, 163, 74)",
+      "rgb(217, 119, 6)",
+      "rgb(202, 138, 4)",
+      "rgb(133, 77, 14)",
+      "rgb(161, 98, 7)",
+      "rgb(75, 85, 99)",
+      "rgb(55, 65, 81)"
+    ],
+    "backgroundColors": [
+      "rgb(249, 250, 251)",
+      "rgb(255, 255, 255)",
+      "rgb(59, 130, 246)",
+      "rgb(239, 246, 255)",
+      "rgb(254, 252, 232)"
+    ]
+  },
+  "botoes": 6,
+  "interativos": 12,
+  "screenshots": {
+    "mobile": "ajuda-mobile.png",
+    "tablet": "ajuda-tablet.png",
+    "desktop": "ajuda-desktop.png",
+    "full": "ajuda-full.png",
+    "header": "ajuda-header.png"
+  },
+  "detalhes": {
+    "cores": {
+      "textColors": [
+        "rgb(0, 0, 0)",
+        "rgb(17, 24, 39)",
+        "rgb(107, 114, 128)",
+        "rgb(93, 77, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(37, 99, 235)",
+        "rgb(22, 163, 74)",
+        "rgb(217, 119, 6)",
+        "rgb(202, 138, 4)",
+        "rgb(133, 77, 14)",
+        "rgb(161, 98, 7)",
+        "rgb(75, 85, 99)",
+        "rgb(55, 65, 81)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 250, 251)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 130, 246)",
+        "rgb(239, 246, 255)",
+        "rgb(254, 252, 232)"
+      ]
+    },
+    "botoes": {
+      "buttons": [
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Abrir menu",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Gestão do Sono",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Notas de Autoconhecimento",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Mudar para tema escuro",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "[sem texto]",
+          "ariaLabel": "Roadmap e Ajuda",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        },
+        {
+          "text": "U",
+          "ariaLabel": "Informações Pessoais",
+          "hasAriaLabel": true,
+          "disabled": false,
+          "visible": true
+        }
+      ]
+    },
+    "interativos": {
+      "interactiveElements": [
+        {
+          "type": "BUTTON",
+          "inputType": "button",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "BUTTON",
+          "inputType": "submit",
+          "hasLabel": true
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": false
+        },
+        {
+          "type": "A",
+          "inputType": "",
+          "hasLabel": true
+        }
+      ]
+    },
+    "estrutura": {
+      "title": "StayFocus",
+      "headings": [
+        {
+          "type": "H1",
+          "text": "Ajuda: Importação e Exportação de Dados"
+        },
+        {
+          "type": "H2",
+          "text": "Exportação de Dados"
+        },
+        {
+          "type": "H3",
+          "text": "Como exportar seus dados:"
+        },
+        {
+          "type": "H2",
+          "text": "Importação de Dados"
+        },
+        {
+          "type": "H3",
+          "text": "Como importar seus dados:"
+        },
+        {
+          "type": "H2",
+          "text": "Perguntas Frequentes"
+        },
+        {
+          "type": "H3",
+          "text": "O que acontece com meus dados atuais quando faço uma importação?"
+        },
+        {
+          "type": "H3",
+          "text": "Posso transferir meus dados entre dispositivos diferentes?"
+        },
+        {
+          "type": "H3",
+          "text": "É seguro armazenar o arquivo de backup?"
+        },
+        {
+          "type": "H3",
+          "text": "Meu backup é compatível com versões futuras do StayFocus?"
+        }
+      ],
+      "mainSections": [
+        {
+          "tag": "MAIN",
+          "childrenCount": 2
+        }
+      ],
+      "hasNavigation": false,
+      "hasSidebar": false,
+      "hasFooter": true,
+      "fontSizes": [
+        "16px",
+        "14px",
+        "24px",
+        "12px"
+      ]
+    }
+  }
+}
