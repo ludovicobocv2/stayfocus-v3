@@ -1,48 +1,41 @@
-import { createMiddlewareClient } from '@supabase/auth-helpers-nextjs';
-import { NextResponse } from 'next/server';
-import type { NextRequest } from 'next/server';
+import { createClient } from '@/app/lib/supabase'
+import { NextResponse } from 'next/server'
+import type { NextRequest } from 'next/server'
 
 export async function middleware(request: NextRequest) {
-  // Criar cliente para middleware
-  const response = NextResponse.next();
-  const supabase = createMiddlewareClient({ req: request, res: response });
-  
-  // Verificar se há uma sessão ativa
-  const {
-    data: { session },
-  } = await supabase.auth.getSession();
-  
-  // URLs públicas que não precisam de autenticação
-  const isPublicPage = 
-    request.nextUrl.pathname.startsWith('/auth') || 
-    request.nextUrl.pathname === '/' ||
-    request.nextUrl.pathname.startsWith('/api/public');
-  
-  // Redirecionar usuários não autenticados para o login
-  // exceto em páginas públicas
-  if (!session && !isPublicPage) {
-    const redirectUrl = new URL('/auth/login', request.url);
-    redirectUrl.searchParams.set('redirectedFrom', request.nextUrl.pathname);
-    return NextResponse.redirect(redirectUrl);
+  const supabase = createClient()
+
+  // Verificar se o usuário está autenticado
+  const { data: { session } } = await supabase.auth.getSession()
+
+  // Lista de rotas públicas
+  const publicRoutes = ['/auth/login', '/auth/cadastro', '/auth/callback']
+
+  // Verificar se a rota atual é pública
+  const isPublicRoute = publicRoutes.some(route => request.nextUrl.pathname.startsWith(route))
+
+  // Se não estiver autenticado e tentar acessar uma rota protegida
+  if (!session && !isPublicRoute) {
+    return NextResponse.redirect(new URL('/auth/login', request.url))
   }
-  
-  // Redirecionar usuários autenticados para fora das páginas de auth
-  if (session && request.nextUrl.pathname.startsWith('/auth')) {
-    return NextResponse.redirect(new URL('/', request.url));
+
+  // Se estiver autenticado e tentar acessar uma rota pública
+  if (session && isPublicRoute) {
+    return NextResponse.redirect(new URL('/', request.url))
   }
-  
-  return response;
+
+  return NextResponse.next()
 }
 
-// Configurar quais rotas devem ser processadas pelo middleware
 export const config = {
   matcher: [
     /*
-     * Corresponde a todas as solicitações, exceto para:
-     * - _next (arquivos estáticos do Next.js)
-     * - public (arquivos estáticos públicos)
-     * - favicon.ico, imagens, etc.
+     * Match all request paths except for the ones starting with:
+     * - _next/static (static files)
+     * - _next/image (image optimization files)
+     * - favicon.ico (favicon file)
+     * - images (public images)
      */
-    '/((?!_next/static|_next/image|favicon.ico|favicon.png|favicon.svg|images|.*\\.svg).*)',
+    '/((?!_next/static|_next/image|favicon.ico|images).*)',
   ],
-}; 
+} 

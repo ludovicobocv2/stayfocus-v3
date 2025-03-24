@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { Card, CardHeader, CardTitle, CardContent } from '@/app/components/ui/Card'
 import { PainelDia } from '@/app/components/inicio/PainelDia'
 import { ListaPrioridades } from '@/app/components/inicio/ListaPrioridades'
